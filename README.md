@@ -9,8 +9,13 @@ This is a step-by-step walk through to deploy a WordPress application on Ubuntu 
 
 ## Basic Steps
 Step 1: Launch the EC2 Instance
+
 Step 2: Launch the RDS Instance
+
 Step 3: Set Up LAMP Stack (EC2)
+
 Step 4: Check MySQL connection and create required database
+
 Step 5: Download Wordpress
+
 Step 6: Update the website as per your Requirement
